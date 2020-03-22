@@ -24,12 +24,12 @@ $ python3 main.py  # Make your own bionic.xml file
 
 ## Keep the original file
 ```bash
-$ source copy_bionic.xml.sh
+$ bash copy_bionic.xml.sh
 ```
 
 ## Replace the original file
 ```bash
-$ source cover_bionic.xml.sh
+$ bash cover_bionic.xml.sh
 ```
 ## Reboot your computer
 ```bash
