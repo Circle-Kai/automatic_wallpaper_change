@@ -15,7 +15,7 @@ Hands On
 ```bash
 $ cd ~/Pictures
 $ git clone https://github.com/Circle-Kai/automatic_wallpaper_change.git
-$ cd ~/Picturesautomatic_wallpaper_change
+$ cd ~/Pictures/automatic_wallpaper_change
 ```
 ## Create a bionic.xml
 ```bash
